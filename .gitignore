@@ -9,4 +9,5 @@
 /build/
 /coverage_html/
 /venv/
+/.venv/
 /main.spec
