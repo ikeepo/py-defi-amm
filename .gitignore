@@ -10,4 +10,5 @@
 /coverage_html/
 /venv/
 /.venv/
+**/__pycache__/
 /main.spec
