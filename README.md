@@ -73,7 +73,10 @@ Initial simulations suggest:
    ```
    make install-dep
    ```
-<summary>managed by uv</summary>
+</details>
+
+<details>
+<summary>Managed by `uv`</summary>
 1. Clone the repository:
    ```
    git clone https://github.com/joaquinbejar/py-defi-amm.git
@@ -89,7 +92,6 @@ Initial simulations suggest:
    ```
    make install-dep-uv
    ```
-
 </details>
 
 ## Running the Model and API
