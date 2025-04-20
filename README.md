@@ -76,7 +76,7 @@ Initial simulations suggest:
 </details>
 
 <details>
-<summary>Managed by `uv`</summary>
+<summary>Managed by uv</summary>
 1. Clone the repository:
    ```
    git clone https://github.com/joaquinbejar/py-defi-amm.git
