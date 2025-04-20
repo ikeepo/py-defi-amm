@@ -58,6 +58,7 @@ Initial simulations suggest:
 <details>
 <summary>Plain Python</summary>
 1. Clone the repository:
+
    ```
    git clone https://github.com/joaquinbejar/py-defi-amm.git
    cd py-defi-amm
@@ -78,6 +79,7 @@ Initial simulations suggest:
 <details>
 <summary>Managed by uv</summary>
 1. Clone the repository:
+
    ```
    git clone https://github.com/joaquinbejar/py-defi-amm.git
    cd py-defi-amm
